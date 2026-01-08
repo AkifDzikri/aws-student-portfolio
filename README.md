@@ -11,10 +11,10 @@ This project demonstrates the deployment of a cloud-based student portfolio and 
 - Amazon S3
 
 ## Team Members
-- Member 1: Networking (VPC)
-- Member 2: Compute (EC2 & Web Server)
-- Member 3: Database (RDS MySQL)
-- Member 4: Storage (S3), Documentation, GitHub, Video
+- Member sherry: Networking (VPC)
+- Member mira: Compute (EC2 & Web Server)
+- Member aina: Database (RDS MySQL)
+- Member akif: Storage (S3), Documentation, GitHub, Video
 
 ## Repository Purpose
 This repository contains documentation and references related to the AWS-based system deployment.
