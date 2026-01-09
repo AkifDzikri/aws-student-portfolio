@@ -18,3 +18,5 @@ This project demonstrates the deployment of a cloud-based student portfolio and 
 
 ## Repository Purpose
 This repository contains documentation and references related to the AWS-based system deployment.
+
+https://youtu.be/NJv-H6mtybY?si=9OnXtBWwawOr9n8M
